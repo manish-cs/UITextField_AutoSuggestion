@@ -43,5 +43,6 @@
 - (void)setLoading:(BOOL)loading;
 
 - (void)reloadContents;
-
+- (void)showAutoSuggestion;
+- (void)hideAutoSuggestion;
 @end
